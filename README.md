@@ -30,7 +30,7 @@ Feature Scaling and Feature Selection Techniques have been performed.
 
 Standardisation and Normalisation have been performed in order to scale the data to see it's distribution.
 
-Hypothesis Testing using t-test to see if the study conducted is viable.
+Hypothesis Testing using t-test to check whether the findings are statistically significant and also if the study conducted is viable.
 
 Logistic Regression, K-Nearest Neighbors, Decision Trees and Random Forests models have been used.
 
