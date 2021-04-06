@@ -28,6 +28,10 @@ Numpy, Pandas, Matplotlib, Seaborn libraries have been used for Data Cleaning, E
 
 Feature Scaling and Feature Selection Techniques have been performed.
 
+Standardisation and Normalisation have been performed in order to scale the data to see it's distribution.
+
+Hypothesis Testing using t-test to see if the study conducted is viable.
+
 Logistic Regression, K-Nearest Neighbors, Decision Trees and Random Forests models have been used.
 
 Accuracy score: 87.44 using Random Forest model. 
